@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Hoang Hiep on 6/30/18 8:35 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 6/30/18 8:35 AM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@color/base70" />
+    <item android:state_activated="true" android:drawable="@color/base70" />
+</selector>

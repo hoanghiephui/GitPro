@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Hoang Hiep on 6/30/18 8:36 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 6/30/18 8:36 AM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/black12" />
+    <size android:height="0.5dp" />
+</shape>
